@@ -1,0 +1,3 @@
+[submodule "User"]
+	path = User
+	url = https://git.pwraerospace.edu.pl/CanSat/cansat_probe_firmware_userspace.git
